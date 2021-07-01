@@ -1,0 +1,35 @@
+    body {
+        font-family: 'Tangerine';font-size: 40px;
+        background-image: url("fundo-carta.jpg");
+        background-position: 0px -100px;
+        background-attachment: fixed;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    .texto {
+        width: 606px; 
+        height: 300px;
+        text-align: left;
+        margin: auto;
+        padding-top: 170px;
+        padding-right: auto;
+        padding-bottom: 50px;
+        padding-left: auto;
+
+    }
+
+    button {
+        margin-top: 250%;
+        font-family: 'Tangerine';
+        font-size: 30px !important;
+        box-shadow: 2px 2px 3px rgba(255, 255, 255, 0.733) !important;
+        width: 150px !important;
+        
+    }
+    
+    button:hover {
+       background-color: #aa9894 !important;
+       color: #fff !important;
+
+}
